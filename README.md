@@ -1,2 +1,2 @@
-# DIDLEGOProject
+# DIALEGOProject
 Data Intensive Project
